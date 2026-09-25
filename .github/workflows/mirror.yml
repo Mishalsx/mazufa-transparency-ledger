@@ -1,0 +1,29 @@
+name: Mirror and verify the Mazufa transparency ledger
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily, after the UTC day's checkpoint is published
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Download and verify checkpoints
+        run: node mirror.mjs
+      - name: Commit new checkpoints
+        if: always()
+        run: |
+          git config user.name "mazufa-ledger-mirror"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A ledger
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git commit -m "ledger: mirror $(date -u +%F)"
+          git push
