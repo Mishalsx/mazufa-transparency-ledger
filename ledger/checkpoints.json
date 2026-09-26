@@ -2,5 +2,12 @@
  "log": "Mazufa Rights transparency ledger",
  "key_id": "6c37a63f27e5eca6",
  "pubkey": "/ledger/pubkey.pem",
- "checkpoints": []
+ "checkpoints": [
+  {
+   "date": "2026-09-25",
+   "root": "8f397a91647dc09eb12b42ca1357bec500e55901b48a166ccc2fd05b620f6169",
+   "count": 3,
+   "file": "/ledger/cp/2026-09-25.json"
+  }
+ ]
 }
