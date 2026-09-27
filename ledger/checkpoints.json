@@ -8,6 +8,12 @@
    "root": "8f397a91647dc09eb12b42ca1357bec500e55901b48a166ccc2fd05b620f6169",
    "count": 3,
    "file": "/ledger/cp/2026-09-25.json"
+  },
+  {
+   "date": "2026-09-26",
+   "root": "cd0d3b224392badef5e6b937742db2acfd7a1065f4fa591560b07afdfba91fc3",
+   "count": 13,
+   "file": "/ledger/cp/2026-09-26.json"
   }
  ]
 }
