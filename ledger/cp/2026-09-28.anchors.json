@@ -1,0 +1,71 @@
+{
+ "sha256": "c0f425a7e7aed4c1616752752b74e8810dec5c141ae011d912503494ea1c5db4",
+ "tsa": [
+  {
+   "tsa": "timestamp.sectigo.com/qualified",
+   "ok": true,
+   "at": "2026-09-29T00:19:51.862Z",
+   "http": 200,
+   "tsrSha256": "9d910eb892ad347f9212c865ce9519df331b59937c714c909a78600ccadca638",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-09-28.timestamp-sectigo-com-qualified.tsr"
+  },
+  {
+   "tsa": "timestamp.digicert.com",
+   "ok": true,
+   "at": "2026-09-29T00:19:52.187Z",
+   "http": 200,
+   "tsrSha256": "69c8141f9c942dc51b3f901d18d4feaca8b526f63fccf55afe7f039606d2fbf5",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-09-28.timestamp-digicert-com.tsr"
+  },
+  {
+   "tsa": "freetsa.org",
+   "ok": true,
+   "at": "2026-09-29T00:19:52.720Z",
+   "http": 200,
+   "tsrSha256": "fa91506e36dc23bf610e67f5a8f28e0579f1d724afef42a69e7de7047a7a1d9c",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-09-28.freetsa-org.tsr"
+  }
+ ],
+ "ots": [
+  {
+   "calendar": "a.pool.opentimestamps.org",
+   "ok": true,
+   "at": "2026-09-29T00:19:53.771Z",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-09-28.a-pool-opentimestamps-org.ots"
+  },
+  {
+   "calendar": "b.pool.opentimestamps.org",
+   "ok": true,
+   "at": "2026-09-29T00:19:55.199Z",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-09-28.b-pool-opentimestamps-org.ots"
+  },
+  {
+   "calendar": "a.pool.eternitywall.com",
+   "ok": true,
+   "at": "2026-09-29T00:19:56.122Z",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-09-28.a-pool-eternitywall-com.ots"
+  },
+  {
+   "calendar": "ots.btc.catallaxy.com",
+   "ok": true,
+   "at": "2026-09-29T00:19:57.838Z",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-09-28.ots-btc-catallaxy-com.ots"
+  }
+ ],
+ "archive": [
+  {
+   "archive": "web.archive.org",
+   "url": "https://rights.mazufa.com/ledger/cp/2026-09-28.json",
+   "http": 302,
+   "ok": true,
+   "at": "2026-09-29T00:20:34.649Z"
+  },
+  {
+   "archive": "web.archive.org",
+   "url": "https://rights.mazufa.com/ledger/checkpoints.json",
+   "http": 302,
+   "ok": true,
+   "at": "2026-09-29T00:21:17.049Z"
+  }
+ ]
+}
