@@ -32,6 +32,12 @@
    "root": "a9d0c051e0047df0c924229c5b89cd873d80796f312d53f274d1d0ec57644d59",
    "count": 9,
    "file": "/ledger/cp/2026-09-29.json"
+  },
+  {
+   "date": "2026-09-30",
+   "root": "52b6515c77c0fbe4d5c7d1394ed160f7d1efa926d1c85a3ed7d069c9fdec7463",
+   "count": 8,
+   "file": "/ledger/cp/2026-09-30.json"
   }
  ]
 }
