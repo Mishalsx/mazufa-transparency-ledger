@@ -1,0 +1,19 @@
+{
+ "checkpoint": {
+  "version": 1,
+  "log": "rights.mazufa.com/ledger",
+  "date": "2026-10-05",
+  "count": 0,
+  "first_seq": null,
+  "last_seq": null,
+  "root": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "chain_head": "dbd91052752ef215f7748d14cbbcaeb37703e88687b5efa616d8e4ab473d3d42",
+  "chain_size": 92,
+  "prev_checkpoint_sha256": "9073400a85dbd334d6e511e7980e6daf428cbe50c7ba5b58c2ece68abd4a5523",
+  "key_id": "6c37a63f27e5eca6",
+  "created_at": "2026-10-06T00:40:40.019Z"
+ },
+ "signature": "DVMmYjNRH7xtzEsaxSzNoEjNMNRX316mXi6G2cWGCeFJExqgQ/trxSXVSaz1Kotei2o/LuFQPsh0s6BGhR/hDQ==",
+ "signed_bytes": "canonical JSON of checkpoint (keys sorted)",
+ "algorithm": "Ed25519"
+}
