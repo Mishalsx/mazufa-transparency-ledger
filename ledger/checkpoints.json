@@ -80,6 +80,12 @@
    "root": "8735c43d40e5fc8130d9f861d9bc25bdd0103888e6ef0b2472c2a1fe6ceb3f1a",
    "count": 3,
    "file": "/ledger/cp/2026-10-07.json"
+  },
+  {
+   "date": "2026-10-08",
+   "root": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "count": 0,
+   "file": "/ledger/cp/2026-10-08.json"
   }
  ]
 }
