@@ -1,0 +1,84 @@
+{
+ "sha256": "54a09222277afb8b30678093d73415796f4cc773ef82d4c36a7adc13a2cb6e7f",
+ "tsa": [
+  {
+   "tsa": "timestamp.sectigo.com/qualified",
+   "ok": false,
+   "at": "2026-10-11T00:39:17.445Z",
+   "http": 200,
+   "responseBinding": "unconfirmed",
+   "failure": "response_binding_failed",
+   "tsrSha256": "",
+   "file": "",
+   "hash": "54a09222277afb8b30678093d73415796f4cc773ef82d4c36a7adc13a2cb6e7f"
+  },
+  {
+   "tsa": "timestamp.digicert.com",
+   "ok": false,
+   "at": "2026-10-11T00:39:17.785Z",
+   "http": 200,
+   "responseBinding": "unconfirmed",
+   "failure": "response_binding_failed",
+   "tsrSha256": "",
+   "file": "",
+   "hash": "54a09222277afb8b30678093d73415796f4cc773ef82d4c36a7adc13a2cb6e7f"
+  },
+  {
+   "tsa": "freetsa.org",
+   "ok": false,
+   "at": "2026-10-11T00:39:18.383Z",
+   "http": 200,
+   "responseBinding": "unconfirmed",
+   "failure": "response_binding_failed",
+   "tsrSha256": "",
+   "file": "",
+   "hash": "54a09222277afb8b30678093d73415796f4cc773ef82d4c36a7adc13a2cb6e7f"
+  }
+ ],
+ "ots": [
+  {
+   "calendar": "a.pool.opentimestamps.org",
+   "ok": true,
+   "at": "2026-10-11T00:39:20.030Z",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-10-10.h-54a09222277afb8b30678093d73415796f4cc773ef82d4c36a7adc13a2cb6e7f-a-pool-opentimestamps-org-a78d7aaa2fbd.ots",
+   "hash": "54a09222277afb8b30678093d73415796f4cc773ef82d4c36a7adc13a2cb6e7f"
+  },
+  {
+   "calendar": "b.pool.opentimestamps.org",
+   "ok": true,
+   "at": "2026-10-11T00:39:21.351Z",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-10-10.h-54a09222277afb8b30678093d73415796f4cc773ef82d4c36a7adc13a2cb6e7f-b-pool-opentimestamps-org-0b19de9c491b.ots",
+   "hash": "54a09222277afb8b30678093d73415796f4cc773ef82d4c36a7adc13a2cb6e7f"
+  },
+  {
+   "calendar": "a.pool.eternitywall.com",
+   "ok": true,
+   "at": "2026-10-11T00:39:22.197Z",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-10-10.h-54a09222277afb8b30678093d73415796f4cc773ef82d4c36a7adc13a2cb6e7f-a-pool-eternitywall-com-f3e97b1a83c6.ots",
+   "hash": "54a09222277afb8b30678093d73415796f4cc773ef82d4c36a7adc13a2cb6e7f"
+  },
+  {
+   "calendar": "ots.btc.catallaxy.com",
+   "ok": true,
+   "at": "2026-10-11T00:39:23.054Z",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-10-10.h-54a09222277afb8b30678093d73415796f4cc773ef82d4c36a7adc13a2cb6e7f-ots-btc-catallaxy-com-97f18f958e94.ots",
+   "hash": "54a09222277afb8b30678093d73415796f4cc773ef82d4c36a7adc13a2cb6e7f"
+  }
+ ],
+ "archive": [
+  {
+   "archive": "web.archive.org",
+   "url": "https://rights.mazufa.com/ledger/cp/2026-10-10.json",
+   "http": 302,
+   "ok": true,
+   "at": "2026-10-11T00:39:29.798Z"
+  },
+  {
+   "archive": "web.archive.org",
+   "url": "https://rights.mazufa.com/ledger/checkpoints.json",
+   "http": 302,
+   "ok": true,
+   "at": "2026-10-11T00:40:24.146Z"
+  }
+ ]
+}
