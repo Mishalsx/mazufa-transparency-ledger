@@ -104,6 +104,18 @@
    "root": "c1c925d7372246db8d95fc46284e7b5a8ffdda39bd277aeed4fab70b28ffae2e",
    "count": 1,
    "file": "/ledger/cp/2026-10-11.json"
+  },
+  {
+   "date": "2026-10-12",
+   "root": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "count": 0,
+   "file": "/ledger/cp/2026-10-12.json"
+  },
+  {
+   "date": "2026-10-13",
+   "root": "72f0c5a1da54e7be6ae7b286e870009d634b59304146855826f6a441a0063d26",
+   "count": 5,
+   "file": "/ledger/cp/2026-10-13.json"
   }
  ]
 }
