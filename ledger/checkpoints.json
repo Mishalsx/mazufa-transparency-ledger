@@ -260,6 +260,12 @@
    "root": "806b3ee322f4c54f3831ef663e895859879a4bcb6eca0698a76afa9c8bfbfa0a",
    "count": 1,
    "file": "/ledger/cp/2026-11-06.json"
+  },
+  {
+   "date": "2026-11-07",
+   "root": "2ea372b6fc842b69649fa17e34d406896640e944698fbaf14b8b874a286677ad",
+   "count": 6,
+   "file": "/ledger/cp/2026-11-07.json"
   }
  ]
 }
