@@ -290,6 +290,18 @@
    "root": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "count": 0,
    "file": "/ledger/cp/2026-11-11.json"
+  },
+  {
+   "date": "2026-11-12",
+   "root": "f03468404ce818235b51a24a2ccd9b25d520107d394dcba7f280c65028fa803e",
+   "count": 1,
+   "file": "/ledger/cp/2026-11-12.json"
+  },
+  {
+   "date": "2026-11-13",
+   "root": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "count": 0,
+   "file": "/ledger/cp/2026-11-13.json"
   }
  ]
 }
