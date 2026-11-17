@@ -1,0 +1,84 @@
+{
+ "sha256": "b88277979fccb6da13c74617636934d27aa5d18ba65a06431acd0efa4ed50a33",
+ "tsa": [
+  {
+   "tsa": "timestamp.sectigo.com/qualified",
+   "ok": true,
+   "at": "2026-11-17T00:39:12.722Z",
+   "http": 200,
+   "responseBinding": "imprint_and_nonce",
+   "failure": "",
+   "tsrSha256": "b3146615641cdb984f1c988430ca905c95e43bafd841db2b138a9dcd1a56c2e7",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-11-16.h-b88277979fccb6da13c74617636934d27aa5d18ba65a06431acd0efa4ed50a33-timestamp-sectigo-com-qualified-fcc7de6835fd.tsr",
+   "hash": "b88277979fccb6da13c74617636934d27aa5d18ba65a06431acd0efa4ed50a33"
+  },
+  {
+   "tsa": "timestamp.digicert.com",
+   "ok": true,
+   "at": "2026-11-17T00:39:13.105Z",
+   "http": 200,
+   "responseBinding": "imprint_and_nonce",
+   "failure": "",
+   "tsrSha256": "24044f11662d7344a41d67bac1a75d195b113890305c01b1e53b0f9e6e5d786d",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-11-16.h-b88277979fccb6da13c74617636934d27aa5d18ba65a06431acd0efa4ed50a33-timestamp-digicert-com-9a44be2d0f49.tsr",
+   "hash": "b88277979fccb6da13c74617636934d27aa5d18ba65a06431acd0efa4ed50a33"
+  },
+  {
+   "tsa": "freetsa.org",
+   "ok": true,
+   "at": "2026-11-17T00:39:13.775Z",
+   "http": 200,
+   "responseBinding": "imprint_and_nonce",
+   "failure": "",
+   "tsrSha256": "7819d54e34e9433f868c452fcf3772d901623aaeb1898326e73394a2bd4ddf7c",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-11-16.h-b88277979fccb6da13c74617636934d27aa5d18ba65a06431acd0efa4ed50a33-freetsa-org-f744cd394e38.tsr",
+   "hash": "b88277979fccb6da13c74617636934d27aa5d18ba65a06431acd0efa4ed50a33"
+  }
+ ],
+ "ots": [
+  {
+   "calendar": "a.pool.opentimestamps.org",
+   "ok": true,
+   "at": "2026-11-17T00:39:15.357Z",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-11-16.h-b88277979fccb6da13c74617636934d27aa5d18ba65a06431acd0efa4ed50a33-a-pool-opentimestamps-org-a78d7aaa2fbd.ots",
+   "hash": "b88277979fccb6da13c74617636934d27aa5d18ba65a06431acd0efa4ed50a33"
+  },
+  {
+   "calendar": "b.pool.opentimestamps.org",
+   "ok": true,
+   "at": "2026-11-17T00:39:16.164Z",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-11-16.h-b88277979fccb6da13c74617636934d27aa5d18ba65a06431acd0efa4ed50a33-b-pool-opentimestamps-org-0b19de9c491b.ots",
+   "hash": "b88277979fccb6da13c74617636934d27aa5d18ba65a06431acd0efa4ed50a33"
+  },
+  {
+   "calendar": "a.pool.eternitywall.com",
+   "ok": true,
+   "at": "2026-11-17T00:39:16.860Z",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-11-16.h-b88277979fccb6da13c74617636934d27aa5d18ba65a06431acd0efa4ed50a33-a-pool-eternitywall-com-f3e97b1a83c6.ots",
+   "hash": "b88277979fccb6da13c74617636934d27aa5d18ba65a06431acd0efa4ed50a33"
+  },
+  {
+   "calendar": "ots.btc.catallaxy.com",
+   "ok": true,
+   "at": "2026-11-17T00:39:22.625Z",
+   "file": "/opt/mazufa-rights/data/ledger/checkpoints/2026-11-16.h-b88277979fccb6da13c74617636934d27aa5d18ba65a06431acd0efa4ed50a33-ots-btc-catallaxy-com-97f18f958e94.ots",
+   "hash": "b88277979fccb6da13c74617636934d27aa5d18ba65a06431acd0efa4ed50a33"
+  }
+ ],
+ "archive": [
+  {
+   "archive": "web.archive.org",
+   "url": "https://rights.mazufa.com/ledger/cp/2026-11-16.json",
+   "http": 302,
+   "ok": true,
+   "at": "2026-11-17T00:39:29.306Z"
+  },
+  {
+   "archive": "web.archive.org",
+   "url": "https://rights.mazufa.com/ledger/checkpoints.json",
+   "http": 302,
+   "ok": true,
+   "at": "2026-11-17T00:39:35.566Z"
+  }
+ ]
+}
