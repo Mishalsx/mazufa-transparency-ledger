@@ -338,6 +338,18 @@
    "root": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "count": 0,
    "file": "/ledger/cp/2026-11-19.json"
+  },
+  {
+   "date": "2026-11-20",
+   "root": "db3be7dd3705198abcf4f68c0ae8e4f63baacb54c528997c9a3e5b2a00a0d616",
+   "count": 5,
+   "file": "/ledger/cp/2026-11-20.json"
+  },
+  {
+   "date": "2026-11-21",
+   "root": "dd4ca39f69663d3b317ccd6ba2b1308bd8f7b2959f84eddb6e08247b416a5b65",
+   "count": 1,
+   "file": "/ledger/cp/2026-11-21.json"
   }
  ]
 }
