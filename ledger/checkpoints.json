@@ -356,6 +356,12 @@
    "root": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "count": 0,
    "file": "/ledger/cp/2026-11-22.json"
+  },
+  {
+   "date": "2026-11-23",
+   "root": "e51e536cb133202db303f71307895c0bbcd14645879baa25b3bb48c3696dcc19",
+   "count": 5,
+   "file": "/ledger/cp/2026-11-23.json"
   }
  ]
 }
